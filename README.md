@@ -2,7 +2,7 @@
 
 This project provides live insights and future predictions of **TCS (Tata Consultancy Services)** stock prices. It fetches real-time data using `yfinance`, performs Exploratory Data Analysis (EDA), and applies **LSTM (Long Short-Term Memory)** – a powerful deep learning model – to forecast future prices. The goal is to empower investors or enthusiasts with intuitive stock movement visuals and predictive analytics.
 
-🔗 **Live App**: [https://tcs-stock-insights-rabhinav0906.streamlit.app/](https://tcs-stock-insights-rabhinav0906.streamlit.app/)
+🔗 **Live App**: [Live Dashboard](https://tcs-stock-data-analysis-and-prediction-acktxcptcndkpqxbvehfka.streamlit.app/)
 
 ---
 
@@ -35,5 +35,6 @@ LSTM networks are designed to learn long-term dependencies in time-series data, 
 - Streamlit
 
 👤 Author
-Abhinav Rai
+Ambrose Henry
+
 
